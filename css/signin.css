@@ -54,6 +54,12 @@
   font-size: 20px;
   cursor: pointer;
 }
+
+.signin__card p {
+  font-size: 11px;
+  text-align: center;
+  color: #006633;
+}
 .signin__card .actions {
   display: flex;
   border-top: 1px solid #ddd;
